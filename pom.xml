@@ -18,7 +18,7 @@
 	<scm>
 	    <connection>scm:git:git@github.com:gyarmati/maven-release.git</connection>
             <developerConnection>scm:git:git@github.com:gyarmati/maven-release.git</developerConnection>
-            <url>https://github.com/gyarmati/maven-release</url>
+            <url>scm:git:git@github.com:gyarmati/maven-release.git</url>
         </scm>
 
 	<build>

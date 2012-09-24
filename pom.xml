@@ -4,7 +4,7 @@
 
 	<groupId>uk.co.mcd.de</groupId>
 	<artifactId>mcd-de</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.5</version>
 	<packaging>pom</packaging>
 
 	<name>maven-release-main</name>

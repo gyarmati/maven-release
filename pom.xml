@@ -4,7 +4,7 @@
 
 	<groupId>uk.co.mcd.de</groupId>
 	<artifactId>mcd-de</artifactId>
-	<version>1.0.9-SNAPSHOT</version>
+	<version>1.0.9</version>
 	<packaging>pom</packaging>
 
 	<name>maven-release-main</name>
@@ -18,7 +18,7 @@
 	    <connection>scm:git:git@github.com:gyarmati/maven-release.git</connection>
             <developerConnection>scm:git:git@github.com:gyarmati/maven-release.git</developerConnection>
             <url>scm:git:git@github.com:gyarmati/maven-release.git</url>
-          <tag>HEAD</tag>
+          <tag>mcd-de-1.0.9</tag>
   </scm>
 
 	<build>
